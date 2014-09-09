@@ -1,0 +1,22 @@
+{
+  "name": "components-test",
+  "version": "0.0.0",
+  "authors": [
+    "Joar Gullestad Pettersen <joargp@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.14",
+    "knockoutjs": "~3.2.0"
+  }
+}
